@@ -1,4 +1,4 @@
-www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aishwarya-k-b-2813372a5# 🐍 Python Basics & Data Science-Oriented Problems  
+## 🐍 Python Basics & Data Science-Oriented Problems  
 
 ## 📌 About the Repository  
 This repository contains **20 Python problems** focused on **fundamental programming concepts** and their applications in **data science & finance**. The problems cover key topics such as:  
@@ -42,5 +42,8 @@ cd Python-Basics-Projects
 ```bash
 python problem_1.py
 ```
-
+## 🔗 Connect with Me  
+If you find this useful or have suggestions, feel free to connect!  
+📩 LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aishwarya-k-b-2813372a5#   
+🌟 Star the repo if you like it!  
 
